@@ -14,7 +14,7 @@ const Vshoot = props => (
           <div className="column is-two-thirds">
             <figure class="  image  ">
               <div className="cheIMG">
-                <h1 className=" has-text-weight-bold has-text-left  title">
+                <h1 className=" has-text-weight-bold has-text-left  imgtitle">
                   Blanchard Tribal <p className="subtitle"> photoshoot</p>
                 </h1>
                 <h1 className="  has-text-weight-bold is-family-monospace snumber">

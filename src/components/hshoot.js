@@ -14,6 +14,9 @@ const Hshoot = props => (
           <div className="column ">
             <figure class="  image  ">
               <div className="cheIMG">
+              <h1 className=" has-text-weight-bold has-text-left  title">
+                  Blanchard Tribal <p className="subtitle"> photoshoot</p>
+                </h1>
                 <h1 className=" snumber-h ">{props.number}</h1>
                 <img
                   className=" chePNG"
